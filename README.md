@@ -1,2 +1,2 @@
 # eloquentjavascript_datastructures
-manipulating arrays 
+manipulating arrays using pop, push, shift, unshift
